@@ -1,0 +1,5 @@
+Bundle-Name: clarifaiDocumentClassifierModelListener
+Bundle-SymbolicName: com.liferay.demo
+Bundle-Version: 1.0.0
+#Private-Package: com.liferay.demo
+#Bundle-Activator: com.liferay.demo.ClassifyingDocumentListener
